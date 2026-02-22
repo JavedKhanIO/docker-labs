@@ -8,7 +8,8 @@ It represents my hands-on learning journey — from basic Dockerfiles to multi-c
 
 ## 📁 Projects Included among others: 
 
-### Log Aggregator
+### Log Aggregator:
+
 A containerized logging demo that:
 - Collects application logs
 - Processes structured output
@@ -17,7 +18,8 @@ A containerized logging demo that:
 
 ---
 
-### Docker networking demo
+### Docker networking demo:
+
 A simple Flask application containerized using:
 - Custom Dockerfile
 - Exposed ports
@@ -26,8 +28,9 @@ A simple Flask application containerized using:
 
 ---
 
-###ulti-App Demo
-A multi-container setup demonstrating:
+### Multi-App Demo:
+
+ A multi-container setup demonstrating:
 - Docker Compose
 - Service communication
 - Network isolation
@@ -36,11 +39,12 @@ A multi-container setup demonstrating:
 ---
 
 ### Log cleaner:
+
 - Cleans logs older than 7 days
 - prints deleted file name with timestamp
 
 ---
-
+ 
 ## ⚙️ CI/CD
 
 Each mini-project includes isolated CI workflows configured to:
