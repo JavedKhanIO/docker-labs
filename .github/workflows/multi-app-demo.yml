@@ -19,8 +19,7 @@ jobs:
 
     defaults:
       run:
-        working-directory:
-          multi-app-demo
+        working-directory: multi-app-demo
 
     steps:
       - name: checkout code
